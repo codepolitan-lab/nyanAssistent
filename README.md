@@ -1,6 +1,7 @@
-nyanAssistent
-========
+### What Is
 
-nyanAssistent ~Password Management adalah apikasi sederhana untuk memengolah daftar password yang dimiliki user. 
+Nyan Password Manager adalah apikasi sederhana untuk memengolah daftar password yang dimiliki user. Bisa digunakan pada lingkungan localhost. Dibanding menyimpannya di cloud, bukankah lebih sederhana di laptop sendiri hahaha ...
 
-version: 1.0
+### Version
+
+1.0
